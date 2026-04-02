@@ -1,6 +1,8 @@
 # Dominik
 
 Java Developer with interest in security
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/dominik-dorawa-it/)])
 
 ## Tech
