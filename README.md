@@ -18,5 +18,5 @@ Java Developer with interest in security
 
 ## Projects
 - **Hackademy** – cyber security learning platform (team project)  
-- **Recipes** – mobile-first web application for tracking recipes and nutrition, inspired by Fitatu (Spring Boot, REST API, MySQL, Maven)  
+- **Recipes** – mobile-first web application for managing recipes and tracking nutrition (Spring Boot, REST API, React, PostgreSQL, Maven)
 - **Spotify-clone** – web application mimicking basic Spotify features: music search, playlists, and playback (PHP, HTML, CSS, JS)
