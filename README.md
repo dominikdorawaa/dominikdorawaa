@@ -30,9 +30,8 @@ Intern Java Developer at Sii Polska. I worked on an internal project, a competen
 
 A cybersecurity learning platform, built with two teammates. Java, Spring Boot, React, PostgreSQL, Docker.
 
-[Live site](https://hackademy-front.onrender.com/)
+[Live site](https://hackademy-front.onrender.com/) <sub>Free Render hosting, so a cold start takes 1 to 3 min.</sub>
 
-<sub>Free Render hosting, so a cold start takes 1 to 3 min.</sub>
 
 ### [Meal Planner](https://github.com/dominikdorawaa/Meal-Planner)
 
