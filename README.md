@@ -30,11 +30,11 @@ Intern Java Developer at Sii Polska. I worked on an internal project, a competen
 
 A cybersecurity learning platform, built with two teammates. Java, Spring Boot, React, PostgreSQL, Docker.
 
-[Live site](https://hackademy-front.onrender.com/)
+[Live site](https://hackademy-front.onrender.com/) Free Render hosting, so a cold start takes 1 to 3 min.
 
 ### [Meal Planner](https://github.com/dominikdorawaa/Meal-Planner)
 
 App for planning meals, saving recipes and tracking calories. Java, Spring Boot, React, PostgreSQL.
 
-[Live site](https://meal-planner-eosin.vercel.app)
+[Live site](https://meal-planner-eosin.vercel.app) Free Render hosting, so a cold start takes 1 to 3 min.
 
