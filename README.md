@@ -3,10 +3,11 @@
 Java Developer with interest in security. Third-year CS at PJATK in Gdańsk. Internship at Sii Polska.
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-donii.me-171817?style=for-the-badge)](https://donii.me) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-dorawa-it/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171817?style=for-the-badge)](https://donii.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-dorawa-it/)
 
 ## Experience
-Intern Java Developer at Sii Polska, 07.2026–09.2026. I worked on CompetenSii, a competency and self-assessment platform, with a seven-person Scrum team: a Java 25 and Spring Boot 4 backend, PostgreSQL, and a React/TypeScript frontend.
+Intern Java Developer at Sii Polska. I worked on an internal project, a competency and self-assessment platform, with a seven-person Scrum team: a Java 25 and Spring Boot 4 backend, PostgreSQL, and a React/TypeScript frontend.
 [Read more](https://donii.me/#experience)
 
 ## Tech
